@@ -5,7 +5,7 @@
 	'hello world' // string
 	'hello world'[6] // 'w'
 
-	5 // integer
+	5 // number
 	5 * 5 // 25
 
 	true // boolean
