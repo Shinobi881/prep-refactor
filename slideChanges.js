@@ -3,7 +3,7 @@
 
 	// Primitive Data Types
 	'hello world' // string
-	'hello world'[6] // w
+	'hello world'[6] // 'w'
 
 	5 // integer
 	5 * 5 // 25
@@ -18,3 +18,15 @@
 	undefined // undefined
 	!undefined // true
 	!! undefined // false
+
+// slide 7.5
+
+	// Introduce variables
+	// variables point to data
+	var dogName = 'Spot';
+	dogName; // 'Spot'
+	var myDog = 'Freckles';
+	myDog; // 'Freckles'
+	myDog = dogName;
+	myDog; // 'Spot'
+
